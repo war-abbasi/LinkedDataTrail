@@ -1,0 +1,14 @@
+# ninja log v5
+1	3920	7329870175465859	CMakeFiles/Assignment_2.dir/main.cpp.obj	dc7360e263ef25b6
+6	1239	7329871240677904	CMakeFiles/Assignment_2.dir/main.cpp.obj	dc7360e263ef25b6
+14	1289	7329871241178949	CMakeFiles/Assignment_2.dir/DLinkedList.cpp.obj	4979240c2aba663e
+1289	1982	7329871247938460	Assignment_2.exe	eaad435540aba3c8
+6	1136	7329883991897778	CMakeFiles/Assignment_2.dir/main.cpp.obj	dc7360e263ef25b6
+15	1253	7329883993067114	CMakeFiles/Assignment_2.dir/DLinkedList.cpp.obj	4979240c2aba663e
+1254	1724	7329883997577424	Assignment_2.exe	eaad435540aba3c8
+5	1049	7329887793598584	CMakeFiles/Assignment_2.dir/main.cpp.obj	dc7360e263ef25b6
+13	1098	7329887794069929	CMakeFiles/Assignment_2.dir/DLinkedList.cpp.obj	4979240c2aba663e
+1098	1613	7329887798963587	Assignment_2.exe	eaad435540aba3c8
+8	1176	7329893487511027	CMakeFiles/Assignment_2.dir/main.cpp.obj	dc7360e263ef25b6
+17	1223	7329893488142490	CMakeFiles/Assignment_2.dir/DLinkedList.cpp.obj	4979240c2aba663e
+1223	1433	7329893490151337	Assignment_2.exe	eaad435540aba3c8
